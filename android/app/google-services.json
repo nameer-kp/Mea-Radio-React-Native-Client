@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551250288622",
+    "project_id": "mea-radio-313613",
+    "storage_bucket": "mea-radio-313613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551250288622:android:9741cabd557651115838ff",
+        "android_client_info": {
+          "package_name": "com.mea_radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551250288622-a2630qgf2erekdjcj2ts9bgdtp180pln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mea_radio",
+            "certificate_hash": "384436ebc113d1ec41a9ade690c9f1a4a20c7cd1"
+          }
+        },
+        {
+          "client_id": "551250288622-70heuek5uit0ivhal2fi60oo4g9cc9v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QSPz-F24aPc9tTvstoVd1VBHa9_OJzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551250288622-70heuek5uit0ivhal2fi60oo4g9cc9v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

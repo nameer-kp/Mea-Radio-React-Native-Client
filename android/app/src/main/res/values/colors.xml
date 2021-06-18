@@ -1,0 +1,6 @@
+<resources>
+    <color name="white">#FFF</color>
+    <color name="blue">#1B1A2A</color>
+    <color name="primary_dark">#1B1A2A</color>
+    <color name="status_bar_color">#1B1A2A</color>
+</resources>
