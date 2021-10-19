@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wix-playground:ahbottomnavigation:3.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bde9e89ff07d7e5205d333cb3e6799b8/jetified-ahbottomnavigation-3.3.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/48fc7d0d8604ecfa4096f106963cb32d/transformed/jetified-ahbottomnavigation-3.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bde9e89ff07d7e5205d333cb3e6799b8/jetified-ahbottomnavigation-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bde9e89ff07d7e5205d333cb3e6799b8/jetified-ahbottomnavigation-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bde9e89ff07d7e5205d333cb3e6799b8/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/48fc7d0d8604ecfa4096f106963cb32d/transformed/jetified-ahbottomnavigation-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48fc7d0d8604ecfa4096f106963cb32d/transformed/jetified-ahbottomnavigation-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48fc7d0d8604ecfa4096f106963cb32d/transformed/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wix-playground/ahbottomnavigation/3.3.0/5842cafd6263780e24d859a8d9367ccf0a83d3ce/ahbottomnavigation-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wix-playground/ahbottomnavigation/3.3.0/7a1851244a8ab61c7e051a293f85ace21ad44939/ahbottomnavigation-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mea_Radio.iml" filepath="$PROJECT_DIR$/.idea/modules/Mea_Radio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mea_Radio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mea_Radio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/38574533/Mea_Radio.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/38574533/Mea_Radio.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/557898461/Mea_Radio.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/557898461/Mea_Radio.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/473168646/Mea_Radio.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/473168646/Mea_Radio.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1064047992/Mea_Radio.react-native-encrypted-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1064047992/Mea_Radio.react-native-encrypted-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/950099207/Mea_Radio.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/950099207/Mea_Radio.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1038662814/Mea_Radio.react-native-navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1038662814/Mea_Radio.react-native-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-175667516/Mea_Radio.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-175667516/Mea_Radio.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/463580056/Mea_Radio.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/463580056/Mea_Radio.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-460648035/Mea_Radio.react-native-track-player.iml" filepath="$PROJECT_DIR$/.idea/modules/-460648035/Mea_Radio.react-native-track-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1689982969/Mea_Radio.react-native-webrtc.iml" filepath="$PROJECT_DIR$/.idea/modules/-1689982969/Mea_Radio.react-native-webrtc.iml" />
+    </modules>
+  </component>
+</project>

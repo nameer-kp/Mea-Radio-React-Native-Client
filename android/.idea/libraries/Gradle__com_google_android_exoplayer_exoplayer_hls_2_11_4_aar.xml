@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.11.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/936f83de291116c5dad9b063b9fb193e/jetified-exoplayer-hls-2.11.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5b6cb4ed6bd149980706702f00119a06/transformed/jetified-exoplayer-hls-2.11.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57524cc483014c7377c9801490362f70/jetified-exoplayer-hls-2.11.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/936f83de291116c5dad9b063b9fb193e/jetified-exoplayer-hls-2.11.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/936f83de291116c5dad9b063b9fb193e/jetified-exoplayer-hls-2.11.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/936f83de291116c5dad9b063b9fb193e/jetified-exoplayer-hls-2.11.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b6cb4ed6bd149980706702f00119a06/transformed/jetified-exoplayer-hls-2.11.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b6cb4ed6bd149980706702f00119a06/transformed/jetified-exoplayer-hls-2.11.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5b6cb4ed6bd149980706702f00119a06/transformed/jetified-exoplayer-hls-2.11.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.11.4/bf6ceb4780c68ebe7da5887b8d8129ee4abe7dec/exoplayer-hls-2.11.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.11.4/9c77cdf40acd62d3d8a2571dc23707f22b9dcded/exoplayer-hls-2.11.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

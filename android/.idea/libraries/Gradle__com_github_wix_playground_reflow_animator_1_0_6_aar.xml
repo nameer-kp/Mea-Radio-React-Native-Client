@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wix-playground:reflow-animator:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b0a1bcde3bed9e7cee6d38fe84b6a3e/jetified-reflow-animator-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b0a1bcde3bed9e7cee6d38fe84b6a3e/jetified-reflow-animator-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b0a1bcde3bed9e7cee6d38fe84b6a3e/jetified-reflow-animator-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cc45d92e97a03f008c5fff411af83928/transformed/jetified-reflow-animator-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cc45d92e97a03f008c5fff411af83928/transformed/jetified-reflow-animator-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cc45d92e97a03f008c5fff411af83928/transformed/jetified-reflow-animator-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wix-playground/reflow-animator/1.0.6/e4054eb9ba24480ceb0ff6215cb73ff926de7f90/reflow-animator-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
